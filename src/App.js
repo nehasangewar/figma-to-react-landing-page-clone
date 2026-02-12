@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Menu, ChevronRight, ChevronLeft, Heart, Share2, Play, MapPin, Star } from 'lucide-react';
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Services from "./components/Services";
@@ -29,14 +28,6 @@ export default function PositivusWebsite() {
       position: "Marketing Director at XYZ Corp"
     }
   ];
-
-  const nextTestimonial = () => {
-    setCurrentTestimonial((prev) => (prev + 1) % testimonials.length);
-  };
-
-  const prevTestimonial = () => {
-    setCurrentTestimonial((prev) => (prev - 1 + testimonials.length) % testimonials.length);
-  };
 
   return (
     <div className="min-h-screen bg-white">
