@@ -1,3 +1,9 @@
+# Positivus Landing Page (React)
+
+A pixel-perfect replication of a Figma landing page using React.js.
+
+Live Demo:https://vercel.com/neha-sangewars-projects/figma-to-react-landing-page-clone-eb7s/2FCbun6Mec64CLJ11gwsFkcyPZQt
+GitHub Repo: https://github.com/...
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
