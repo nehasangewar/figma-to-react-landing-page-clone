@@ -2,7 +2,7 @@
 
 A pixel-perfect replication of a Figma landing page using React.js.
 
-Live Demo: figma-to-react-landing-page-clone-eb7s-7g0d4gegy.vercel.app
+Live Demo: https://figma-to-react-landing-page-clone-e.vercel.app/
 GitHub Repo: https://github.com/nehasangewar/figma-to-react-landing-page-clone.git
 
 # Getting Started with Create React App
